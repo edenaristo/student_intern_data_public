@@ -9,7 +9,7 @@ cd student-intern-organiser
 ```
 2. clone the repository
 ```
-git clone https://github.com/WEHI-ResearchComputing/student_intern_data_public.git student_intern_data
+git clone https://github.com/edenaristo/student_intern_data_public student_intern_data
 ```
 
 Enjoy the Run
